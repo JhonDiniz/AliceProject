@@ -1,0 +1,28 @@
+PLANEJAMENTO DA IMPLEMENTAÇÃO
+
+Projeto: Gatoplastia
+Ferramenta: Alice 3
+
+1. Montagem do cenário
+Construção do ambiente estático do consultório, incluindo piso, paredes e elementos decorativos (cortina, mobiliário), com aplicação das texturas correspondentes a cada superfície.
+
+2. Criação e customização dos personagens
+Inserção dos personagens principais na cena (paciente e figura adicional), com definição de sua aparência visual e posicionamento inicial dentro do ambiente.
+
+3. Configuração da câmera
+Definição dos enquadramentos da cena, incluindo pontos de aproximação (zoom) utilizados para destacar momentos-chave da narrativa.
+
+4. Implementação do diálogo
+Programação da sequência de falas entre os personagens, estruturando a progressão da conversa até o ponto central da história.
+
+5. Lógica de transição de cena
+Implementação da movimentação dos personagens para fora e para dentro do campo de visão da câmera, simulando a passagem de tempo ou eventos que ocorrem fora de quadro.
+
+6. Implementação do desfecho
+Programação da sequência final da animação, incluindo efeito de transição (escurecimento da tela) e revelação do elemento que representa a conclusão da história.
+
+7. Configuração de eventos
+Definição dos gatilhos responsáveis por iniciar a execução da animação, garantindo que a sequência ocorra corretamente e uma única vez durante a execução do programa.
+
+8. Ajustes finais
+Revisão e sincronização entre falas, movimentação dos personagens e cortes de câmera, com testes de reprodução completa da animação para validação do resultado final.
